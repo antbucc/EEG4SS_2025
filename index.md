@@ -6,7 +6,7 @@ title: Call for Chapters
 <link rel="stylesheet" type="text/css" href="assets/styles.css">
 
 <header>
-    <img src="assets/header_image.png" alt="Header Image">
+    <img src="assets/springer.png" alt="Header Image">
 </header>
 
 <div class="container">
