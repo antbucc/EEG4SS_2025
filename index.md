@@ -3,7 +3,97 @@ layout: default
 title: Call for Chapters
 ---
 
-<link rel="stylesheet" type="text/css" href="assets/styles.css">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.header-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    margin-top: 20px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.center-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.section-logos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.section-logos img {
+    max-width: 150px;
+    height: auto;
+}
+
+section.theme {
+    margin-bottom: 40px;
+}
+
+section.theme img {
+    margin-top: 20px;
+}
+
+.intro {
+    margin-bottom: 40px;
+}
+
+.content {
+    margin-bottom: 40px;
+}
+
+.introduction {
+    margin-bottom: 40px;
+}
+
+h3, h4 {
+    margin-top: 40px;
+}
+</style>
 
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
@@ -20,6 +110,11 @@ title: Call for Chapters
             <li>Vanissa Wanick - University of Southampton, UK</li>
         </ul>
     </section>
+    <section class="section-logos">
+        <img src="assets/FBK.png" alt="Logo 1">
+        <img src="assets/EPFL.png" alt="Logo 2">
+        <img src="assets/southampton.png" alt="Logo 3">
+    </section>
     <section class="content">
         <h2>Introduction</h2>
         <p>The aim of this book is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this book seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
@@ -29,14 +124,12 @@ title: Call for Chapters
         <p>This theme introduces the foundational importance of games in both learning and driving social change. It examines how games are integral to engineering education and their broader societal impacts. Through this lens, the theme highlights the transformative power of games, emphasizing their significance in contemporary educational and social contexts.</p>
         <h3>Theme 2: Understanding Game-Based Learning</h3>
         <p>This theme explores the transformative impact of game-based learning on engineering education. It covers the essential role of games in enhancing student engagement and problem-solving skills, the potential of the metaverse for immersive learning experiences, the benefits of collaborative worldbuilding projects, and the effectiveness of games in driving behavioral change. Through theoretical insights and practical examples, this theme highlights innovative strategies for integrating games into engineering curricula to foster a dynamic and interactive learning environment.</p>
-        <img src="assets/game_design.png" alt="Game Design" class="center-image">
         <h3>Theme 3: Educational Approaches and Applications in Higher Education</h3>
         <p>This theme focuses on innovative strategies for enhancing engineering education through playful and user-centered learning experiences. This section examines the integration of playful learning into educational practices, the customization of learning experiences through game-based approaches, and the design of serious games to address educational goals. Additionally, it explores how games can promote sustainability and systems thinking in engineering education. Through case studies, methodological guidelines, and scientific evidence, this section provides a comprehensive look at how games can revolutionize higher education by making learning more engaging, personalized, and impactful.</p>
         <h3>Theme 4: Innovative and Emerging Technologies for Game Design</h3>
         <p>This theme delves into cutting-edge advancements and experimental methodologies in game development. It explores the critical role of experimentation in game design, the impact of generative AI on creating dynamic game content, and the ethical considerations surrounding AI in gaming. Additionally, it examines the use of tangible and intangible user interfaces, enhancing player interaction and immersion. The section also highlights the integration of digital twins and tangible objects in game design, offering new dimensions of interactivity and realism. Through detailed discussions and examples, this section provides a comprehensive overview of the latest innovations shaping the future of game development.</p>
         <h3>Theme 5: Participation, Community Strategy, and Sustainability</h3>
         <p>This theme emphasizes the critical intersections between gaming, community engagement, and sustainable practices. This section explores how communities contribute to game development through collaboration and co-created solutions, illustrated by case studies of successful community-driven projects within and outside academia. It also examines the role of games in fostering green skills and sustainable behaviors, highlighting games that educate and promote environmental consciousness. Additionally, the section delves into regenerative practices and nature-based solutions within game design, showcasing how games can advocate for and integrate ecological principles. Through these discussions, this section underscores the potential of games to drive community involvement toward sustainability.</p>
-        <img src="assets/community_engagement.png" alt="Community Engagement" class="center-image">
         <h3>Theme 6: Evaluation and Impact</h3>
         <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.</p>
         <h2>Conclusions</h2>
