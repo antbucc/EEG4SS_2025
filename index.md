@@ -152,7 +152,7 @@ h3, h4 {
             <li><strong>Book Final Delivery:</strong> May 30, 2025</li>
         </ul>
         <h2>Chapter Proposal Submission</h2>
-        <p>Chapter proposals should be submitted by completing the following <a href="#">Google Form</a>.</p>
+        <p>Chapter proposals should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
            <h2>Download Call for Papers PDF</h2>
         <div class="download-section">
             <a href="assets/EEG4SS_2025_CFC.pdf" class="download-link" target="_blank">Download PDF</a>
