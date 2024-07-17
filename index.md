@@ -20,7 +20,7 @@ header {
 }
 
 .header-image {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
 }
 
