@@ -153,6 +153,10 @@ h3, h4 {
         </ul>
         <h2>Chapter Proposal Submission</h2>
         <p>Chapter proposals should be submitted by completing the following <a href="#">Google Form</a>.</p>
+           <h2>Download Call for Papers PDF</h2>
+        <div class="download-section">
+            <a href="assets/EEG4SS_2025_CFC.pdf" class="download-link" target="_blank">Download PDF</a>
+        </div>
         <h2>Contact Information</h2>
         <p>For further information or inquiries, please contact:<br>
         <strong>Dr. Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></p>
