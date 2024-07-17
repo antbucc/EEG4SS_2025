@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background: white;
+    color: white;
     text-align: center;
     padding: 1rem 0;
 }
