@@ -134,7 +134,7 @@ h3, h4 {
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
     <section class="section-logos">
-     <h2>Important Deadlines</h2>
+     <h3>Important Deadlines</h3>
         <ul>
             <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
             <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
