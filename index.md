@@ -11,6 +11,7 @@ body {
     padding: 0;
     background-color: white;
 }
+
 header {
     background: white;
     color: white;
@@ -22,32 +23,6 @@ header {
 .header-image {
     max-width: 30%;
     height: auto;
-}
-
-.timeline {
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: #f4f4f4;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-.timeline h2 {
-    font-size: 1.2em;
-    margin: 0 0 10px;
-    color: #333;
-}
-
-.timeline ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-.timeline li {
-    margin-bottom: 5px;
 }
 
 .container {
@@ -75,31 +50,6 @@ ul {
     list-style-type: disc;
     margin-left: 20px;
 }
-.timeline {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 40px 0;
-    padding: 20px;
-    background: #f4f4f4;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-.timeline div {
-    text-align: center;
-}
-
-.timeline div h4 {
-    margin: 0 0 10px;
-    color: #333;
-    font-weight: 600;
-}
-
-.timeline div p {
-    margin: 0;
-}
-
 
 .center-image {
     display: block;
@@ -144,6 +94,31 @@ h3, h4 {
     margin-top: 40px;
 }
 
+.timeline {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.timeline div {
+    text-align: center;
+}
+
+.timeline div h4 {
+    margin: 0 0 10px;
+    color: #333;
+    font-weight: 600;
+}
+
+.timeline div p {
+    margin: 0;
+}
+
 .download-section {
     text-align: center;
     margin: 40px 0;
@@ -166,10 +141,9 @@ h3, h4 {
 </style>
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
-   
 </header>
 <div class="container">
- <section class="timeline">
+    <section class="timeline">
         <div>
             <h4>Preliminary Chapter Proposal</h4>
             <p>October 15, 2024</p>
@@ -230,7 +204,7 @@ h3, h4 {
             <h2>Conclusions</h2>
     <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
     <h2>Chapter Submission Guidelines</h2>
-    <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
+    <p>Interested authors are invited to submit the following mandatory information <b>by October 15, 2024:</b></p>
     <ul>
         <li>List of Authors with Affiliations and Contact Information</li>
         <li>Provisional Chapter Title</li>
@@ -248,3 +222,4 @@ h3, h4 {
     <strong>Dr. Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></p>
     <p>We look forward to your contributions!</p>
 </section>
+</div>
