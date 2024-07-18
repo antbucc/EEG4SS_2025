@@ -101,7 +101,7 @@ h3, h4 {
     <section class="intro">
         <h1>Call for Chapters</h1>
         <h2>BookTitle: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
-        <p><strong>Organizers:</strong></p>
+        <p><strong>Editors:</strong></p>
         <ul>
             <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
             <li>Valentina Rossi - Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland</li>
@@ -115,9 +115,9 @@ h3, h4 {
     </section>
     <section class="content">
         <h2>Introduction</h2>
-        <p>The aim of this conference is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this conference seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
-        <h2>Conference Objectives and Themes</h2>
-        <p>The objective of this conference is to explore the multifaceted role of games in contemporary education and society. We expect contributions for themes 1 to 5 from experts and researchers in the field, while the introduction and conclusion will be managed by the conference organizers to ensure a cohesive and comprehensive narrative. This collaborative approach will enable a thorough examination of how games can revolutionize education, foster community engagement, and promote sustainability. By bringing together diverse perspectives and insights, this conference aims to highlight the transformative potential of games in driving educational and social progress.</p>
+        <p>The aim of this book is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this book seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
+        <h2>Book Objectives and Themes</h2>
+        <p>The objective of this book is to explore the multifaceted role of games in contemporary education and society. We expect contributions for themes 1 to 5 from experts and researchers in the field, while the introduction and conclusion will be managed by the book editors to ensure a cohesive and comprehensive narrative. This collaborative approach will enable a thorough examination of how games can revolutionize education, foster community engagement, and promote sustainability. By bringing together diverse perspectives and insights, this book aims to highlight the transformative potential of games in driving educational and social progress.</p>
         <h3>Theme 1: The Role of Games in Contemporary Society</h3>
         <p>This theme introduces the foundational importance of games in both learning and driving social change. It examines how games are integral to engineering education and their broader societal impacts. Through this lens, the theme highlights the transformative power of games, emphasizing their significance in contemporary educational and social contexts.</p>
         <h3>Theme 2: Understanding Game-Based Learning</h3>
@@ -131,7 +131,7 @@ h3, h4 {
         <h3>Theme 6: Evaluation and Impact</h3>
         <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.</p>
         <h2>Conclusions</h2>
-        <p>This part of the conference focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
+        <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
         <h2>Chapter Submission Guidelines</h2>
         <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
         <ul>
@@ -147,7 +147,7 @@ h3, h4 {
             <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
             <li><strong>Review and Feedback:</strong> March 1, 2025</li>
             <li><strong>Final Version Submission:</strong> April 15, 2025</li>
-            <li><strong>Conference Date:</strong> May 30, 2025</li>
+            <li><strong>Book Delivery Date:</strong> May 30, 2025</li>
         </ul>
         <h2>Chapter Submission</h2>
         <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
