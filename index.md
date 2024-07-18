@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Call for Papers
+title: Call for Chapters
 ---
 <style>
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue';
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -99,8 +99,8 @@ h3, h4 {
 </header>
 <div class="container">
     <section class="intro">
-        <h1>Call for Papers</h1>
-        <h2>Conference: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
+        <h1>Call for Chapters</h1>
+        <h2>BookTitle: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
         <p><strong>Organizers:</strong></p>
         <ul>
             <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
@@ -132,26 +132,26 @@ h3, h4 {
         <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.</p>
         <h2>Conclusions</h2>
         <p>This part of the conference focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
-        <h2>Paper Submission Guidelines</h2>
+        <h2>Chapter Submission Guidelines</h2>
         <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
         <ul>
             <li>List of Authors with Affiliations and Contact Information</li>
-            <li>Provisional Paper Title</li>
+            <li>Provisional Chapter Title</li>
             <li>Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.</li>
-            <li>Methodology and Evaluation Criteria: The paper proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
+            <li>Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
         </ul>
         <h2>Important Deadlines</h2>
         <ul>
-            <li><strong>Preliminary Paper Proposal:</strong> October 15, 2024</li>
+            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
             <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
-            <li><strong>Full Paper Submission:</strong> January 15, 2025</li>
+            <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
             <li><strong>Review and Feedback:</strong> March 1, 2025</li>
             <li><strong>Final Version Submission:</strong> April 15, 2025</li>
             <li><strong>Conference Date:</strong> May 30, 2025</li>
         </ul>
-        <h2>Paper Submission</h2>
-        <p>Papers should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
-        <h2>Download Call for Papers PDF</h2>
+        <h2>Chapter Submission</h2>
+        <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
+        <h2>Download Call for Chapters PDF</h2>
         <div class="download-section">
             <a href="assets/EEG4SS_2025_CFP.pdf" class="download-link" target="_blank">Download PDF</a>
         </div>
