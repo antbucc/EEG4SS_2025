@@ -4,7 +4,6 @@ title: Call for Chapters
 ---
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
-
 body {
     font-family: 'Playfair Display', serif;
     line-height: 1.6;
@@ -12,17 +11,43 @@ body {
     padding: 0;
     background-color: white;
 }
-
 header {
     background: white;
     color: white;
     text-align: center;
     padding: 1rem 0;
+    position: relative;
 }
 
 .header-image {
     max-width: 30%;
     height: auto;
+}
+
+.timeline {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.timeline h2 {
+    font-size: 1.2em;
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.timeline ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline li {
+    margin-bottom: 5px;
 }
 
 .container {
@@ -50,6 +75,31 @@ ul {
     list-style-type: disc;
     margin-left: 20px;
 }
+.timeline {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.timeline div {
+    text-align: center;
+}
+
+.timeline div h4 {
+    margin: 0 0 10px;
+    color: #333;
+    font-weight: 600;
+}
+
+.timeline div p {
+    margin: 0;
+}
+
 
 .center-image {
     display: block;
@@ -116,11 +166,38 @@ h3, h4 {
 </style>
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
+   
 </header>
 <div class="container">
+ <section class="timeline">
+        <div>
+            <h4>Preliminary Chapter Proposal</h4>
+            <p>October 15, 2024</p>
+        </div>
+        <div>
+            <h4>Notification of Acceptance</h4>
+            <p>November 15, 2024</p>
+        </div>
+        <div>
+            <h4>Full Chapter Submission</h4>
+            <p>January 15, 2025</p>
+        </div>
+        <div>
+            <h4>Review and Feedback</h4>
+            <p>March 1, 2025</p>
+        </div>
+        <div>
+            <h4>Final Version Submission</h4>
+            <p>April 15, 2025</p>
+        </div>
+        <div>
+            <h4>Book Delivery Date</h4>
+            <p>May 30, 2025</p>
+        </div>
+    </section>
     <section class="intro">
         <h1>Call for Chapters</h1>
-        <h2>BookTitle: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
+        <h2>Book Title: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
         <p><strong>Editors:</strong></p>
         <ul>
             <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
@@ -149,35 +226,25 @@ h3, h4 {
         <h3>Theme 5: Participation, Community Strategy, and Sustainability</h3>
         <p>This theme emphasizes the critical intersections between gaming, community engagement, and sustainable practices. This section explores how communities contribute to game development through collaboration and co-created solutions, illustrated by case studies of successful community-driven projects within and outside academia. It also examines the role of games in fostering green skills and sustainable behaviors, highlighting games that educate and promote environmental consciousness. Additionally, the section delves into regenerative practices and nature-based solutions within game design, showcasing how games can advocate for and integrate ecological principles. Through these discussions, this section underscores the potential of games to drive community involvement toward sustainability.</p>
         <h3>Theme 6: Evaluation and Impact</h3>
-        <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.</p>
-        <h2>Conclusions</h2>
-        <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
-        <h2>Chapter Submission Guidelines</h2>
-        <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
-        <ul>
-            <li>List of Authors with Affiliations and Contact Information</li>
-            <li>Provisional Chapter Title</li>
-            <li>Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.</li>
-            <li>Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
-        </ul>
-        <h2>Important Deadlines</h2>
-        <ul>
-            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
-            <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
-            <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
-            <li><strong>Review and Feedback:</strong> March 1, 2025</li>
-            <li><strong>Final Version Submission:</strong> April 15, 2025</li>
-            <li><strong>Book Delivery Date:</strong> May 30, 2025</li>
-        </ul>
-        <h2>Chapter Submission</h2>
-        <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
-        <h2>Download Call for Chapters PDF</h2>
-        <div class="download-section">
-            <a href="assets/EEG4SS_2025_CFP.pdf" class="download-link" target="_blank">Download PDF</a>
-        </div>
-        <h2>Contact Information</h2>
-        <p>For further information or inquiries, please contact:<br>
-        <strong>Dr. Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></p>
-        <p>We look forward to your contributions!</p>
-    </section>
-</div>
+        <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.
+            <h2>Conclusions</h2>
+    <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
+    <h2>Chapter Submission Guidelines</h2>
+    <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
+    <ul>
+        <li>List of Authors with Affiliations and Contact Information</li>
+        <li>Provisional Chapter Title</li>
+        <li>Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.</li>
+        <li>Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
+    </ul>
+    <h2>Chapter Submission</h2>
+    <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
+    <h2>Download Call for Chapters PDF</h2>
+    <div class="download-section">
+        <a href="https://github.com/your-repo/EEG4SS_2025_CFP.pdf" class="download-link" target="_blank">Download PDF</a>
+    </div>
+    <h2>Contact Information</h2>
+    <p>For further information or inquiries, please contact:<br>
+    <strong>Dr. Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></p>
+    <p>We look forward to your contributions!</p>
+</section>
