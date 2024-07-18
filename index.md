@@ -175,7 +175,7 @@ h3, h4 {
         <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
         <h2>Download Call for Chapters PDF</h2>
         <div class="download-section">
-            <a href="ttps://antbucc.github.io/PE4GenAI/materiale/Cfc.pdf" class="download-link" target="_blank">Download PDF</a>
+            <a href="https://antbucc.github.io/PE4GenAI/materiale/Cfc.pdf" class="download-link" target="_blank">Download PDF</a>
         </div>
         <h2>Contact Information</h2>
         <p>For further information or inquiries, please contact:<br>
