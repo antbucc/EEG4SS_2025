@@ -151,7 +151,6 @@ h3, h4 {
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
 </header>
-
 <div class="container">
     <div class="main-content">
         <section class="intro">
@@ -194,12 +193,6 @@ h3, h4 {
 Provisional Chapter Title
 Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.
 Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</p>
-        <h2>Chapter Submission</h2>
-        <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
-        <h2>Download Call for Chapters PDF</h2>
-        <div class="download-section">
-            <a href="https://github.com/your-repo/EEG4SS_2025_CFP.pdf" class="download-link" target="_blank">Download PDF</a>
-        </div>
         <h2>Contact Information</h2>
         <p>For further information or inquiries, please contact:<br>
         <strong>Dr. Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></p>
