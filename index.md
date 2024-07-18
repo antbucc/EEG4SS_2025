@@ -3,23 +3,28 @@ layout: default
 title: Call for Chapters
 ---
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
 body {
-    font-family: 'Helvetica Neue';
+    font-family: 'Playfair Display', serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: white;
 }
+
 header {
     background: white;
     color: white;
     text-align: center;
     padding: 1rem 0;
 }
+
 .header-image {
     max-width: 30%;
     height: auto;
 }
+
 .container {
     width: 80%;
     margin: auto;
@@ -30,56 +35,70 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 h1, h2, h3, h4, h5, h6 {
     color: #333;
     margin-top: 20px;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Playfair Display', serif;
 }
+
 p {
     margin-bottom: 20px;
 }
+
 ul {
     list-style-type: disc;
     margin-left: 20px;
 }
+
 .center-image {
     display: block;
     margin: 20px auto;
     max-width: 100%;
     height: auto;
 }
+
 .section-logos {
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin: 40px 0;
 }
+
 .section-logos img {
     max-width: 150px;
     height: auto;
 }
+
 section.theme {
     margin-bottom: 40px;
 }
+
 section.theme img {
     margin-top: 20px;
 }
+
 .intro {
     margin-bottom: 40px;
 }
+
 .content {
     margin-bottom: 40px;
 }
+
 .introduction {
     margin-bottom: 40px;
 }
+
 h3, h4 {
     margin-top: 40px;
 }
+
 .download-section {
     text-align: center;
     margin: 40px 0;
 }
+
 .download-link {
     display: inline-block;
     padding: 10px 20px;
@@ -90,6 +109,7 @@ h3, h4 {
     border-radius: 5px;
     transition: background-color 0.3s;
 }
+
 .download-link:hover {
     background-color: #555;
 }
