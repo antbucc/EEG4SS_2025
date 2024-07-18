@@ -133,6 +133,17 @@ h3, h4 {
         <img src="assets/EPFL.png" alt="EPFL Logo">
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
+    <section class="section-logos">
+     <h2>Important Deadlines</h2>
+        <ul>
+            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
+            <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
+            <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
+            <li><strong>Review and Feedback:</strong> March 1, 2025</li>
+            <li><strong>Final Version Submission:</strong> April 15, 2025</li>
+            <li><strong>Book Delivery Date:</strong> May 30, 2025</li>
+        </ul>
+    </section>
     <section class="content">
         <h2>Introduction</h2>
         <p>The aim of this book is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this book seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
@@ -159,15 +170,6 @@ h3, h4 {
             <li>Provisional Chapter Title</li>
             <li>Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.</li>
             <li>Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
-        </ul>
-        <h2>Important Deadlines</h2>
-        <ul>
-            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
-            <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
-            <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
-            <li><strong>Review and Feedback:</strong> March 1, 2025</li>
-            <li><strong>Final Version Submission:</strong> April 15, 2025</li>
-            <li><strong>Book Delivery Date:</strong> May 30, 2025</li>
         </ul>
         <h2>Chapter Submission</h2>
         <p>Chapters should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
