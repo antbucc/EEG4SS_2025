@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Call for Chapters
+title: Call for Papers
 ---
-
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -11,19 +10,16 @@ body {
     padding: 0;
     background-color: white;
 }
-
 header {
     background: white;
     color: white;
     text-align: center;
     padding: 1rem 0;
 }
-
 .header-image {
     max-width: 30%;
     height: auto;
 }
-
 .container {
     width: 80%;
     margin: auto;
@@ -34,76 +30,78 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 h1, h2, h3, h4, h5, h6 {
     color: #333;
     margin-top: 20px;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
-
 p {
     margin-bottom: 20px;
 }
-
 ul {
     list-style-type: disc;
     margin-left: 20px;
 }
-
 .center-image {
     display: block;
     margin: 20px auto;
     max-width: 100%;
     height: auto;
 }
-
-
 .section-logos {
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin: 40px 0;
 }
-
 .section-logos img {
     max-width: 150px;
     height: auto;
 }
-
 section.theme {
     margin-bottom: 40px;
 }
-
 section.theme img {
     margin-top: 20px;
 }
-
 .intro {
     margin-bottom: 40px;
 }
-
 .content {
     margin-bottom: 40px;
 }
-
 .introduction {
     margin-bottom: 40px;
 }
-
 h3, h4 {
     margin-top: 40px;
 }
+.download-section {
+    text-align: center;
+    margin: 40px 0;
+}
+.download-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+.download-link:hover {
+    background-color: #555;
+}
 </style>
-
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
 </header>
-
 <div class="container">
     <section class="intro">
-        <h1>Call for Chapters</h1>
-        <h2>Book Title: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
-        <p><strong>Editors:</strong></p>
+        <h1>Call for Papers</h1>
+        <h2>Conference: Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
+        <p><strong>Organizers:</strong></p>
         <ul>
             <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
             <li>Valentina Rossi - Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland</li>
@@ -111,15 +109,15 @@ h3, h4 {
         </ul>
     </section>
     <section class="section-logos">
-        <img src="assets/FBK.png" alt="Logo 1">
-        <img src="assets/EPFL.png" alt="Logo 2">
-        <img src="assets/southampton.png" alt="Logo 3">
+        <img src="assets/FBK.png" alt="FBK Logo">
+        <img src="assets/EPFL.png" alt="EPFL Logo">
+        <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
     <section class="content">
         <h2>Introduction</h2>
-        <p>The aim of this book is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this book seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
-        <h2>Book Objectives and Themes</h2>
-        <p>The objective of this book is to explore the multifaceted role of games in contemporary education and society. We expect contributions for themes 1 to 5 from experts and researchers in the field, while the introduction and conclusion will be managed by the book editors to ensure a cohesive and comprehensive narrative. This collaborative approach will enable a thorough examination of how games can revolutionize education, foster community engagement, and promote sustainability. By bringing together diverse perspectives and insights, this book aims to highlight the transformative potential of games in driving educational and social progress.</p>
+        <p>The aim of this conference is to provide models, methods, tools, and experiences to engineer games that foster learning and solve societal and environmental problems. This essential resource for educators, scientists, and engineers in academia and industry explores innovative approaches to game development, emphasizing practical solutions and transformative learning experiences. By integrating the latest research and hands-on applications, this conference seeks to inspire and guide the creation of educational games that lead to impactful change.</p>
+        <h2>Conference Objectives and Themes</h2>
+        <p>The objective of this conference is to explore the multifaceted role of games in contemporary education and society. We expect contributions for themes 1 to 5 from experts and researchers in the field, while the introduction and conclusion will be managed by the conference organizers to ensure a cohesive and comprehensive narrative. This collaborative approach will enable a thorough examination of how games can revolutionize education, foster community engagement, and promote sustainability. By bringing together diverse perspectives and insights, this conference aims to highlight the transformative potential of games in driving educational and social progress.</p>
         <h3>Theme 1: The Role of Games in Contemporary Society</h3>
         <p>This theme introduces the foundational importance of games in both learning and driving social change. It examines how games are integral to engineering education and their broader societal impacts. Through this lens, the theme highlights the transformative power of games, emphasizing their significance in contemporary educational and social contexts.</p>
         <h3>Theme 2: Understanding Game-Based Learning</h3>
@@ -133,29 +131,29 @@ h3, h4 {
         <h3>Theme 6: Evaluation and Impact</h3>
         <p>This theme focuses on the methods and metrics used to assess the effectiveness of games to validate their learning objectives, particularly in promoting sustainability. This section presents how to measure the impact of games using specific metrics and key performance indicators (KPIs), providing tools for evaluating the success of educational and serious games. It also explores the importance of engaging stakeholders in the development and evaluation process, ensuring their active participation and input. Furthermore, this section highlights how to measure the broader impact of games and their potential to influence policy-making. Through these insights, this section offers a comprehensive framework for evaluating the impact of games on education, sustainability, and policy.</p>
         <h2>Conclusions</h2>
-        <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
-        <h2>Chapter Proposal Guidelines</h2>
+        <p>This part of the conference focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
+        <h2>Paper Submission Guidelines</h2>
         <p>Interested authors are invited to submit the following mandatory information by October 15, 2024:</p>
         <ul>
             <li>List of Authors with Affiliations and Contact Information</li>
-            <li>Provisional Chapter Title</li>
+            <li>Provisional Paper Title</li>
             <li>Brief Abstract (300-500 words without references): The abstract must include the rationale, a summary of expected contributions, the methodology used, and references consulted.</li>
-            <li>Methodology and Evaluation Criteria: The chapter proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
+            <li>Methodology and Evaluation Criteria: The paper proposal must include detailed information on the data, experiments conducted, including the types of data used and the experimental setup, as well as the criteria and metrics employed for evaluating the results.</li>
         </ul>
         <h2>Important Deadlines</h2>
         <ul>
-            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
+            <li><strong>Preliminary Paper Proposal:</strong> October 15, 2024</li>
             <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
-            <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
+            <li><strong>Full Paper Submission:</strong> January 15, 2025</li>
             <li><strong>Review and Feedback:</strong> March 1, 2025</li>
             <li><strong>Final Version Submission:</strong> April 15, 2025</li>
-            <li><strong>Book Final Delivery:</strong> May 30, 2025</li>
+            <li><strong>Conference Date:</strong> May 30, 2025</li>
         </ul>
-        <h2>Chapter Proposal Submission</h2>
-        <p>Chapter proposals should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
-           <h2>Download Call for Papers PDF</h2>
+        <h2>Paper Submission</h2>
+        <p>Papers should be submitted by completing the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXS0xNSfGCffGLmkDXOH7_EgTpkHHzELoVaPUFOyV8d2GbNg/viewform?usp=sharing">Google Form</a>.</p>
+        <h2>Download Call for Papers PDF</h2>
         <div class="download-section">
-            <a href="assets/EEG4SS_2025_CFC.pdf" class="download-link" target="_blank">Download PDF</a>
+            <a href="assets/EEG4SS_2025_CFP.pdf" class="download-link" target="_blank">Download PDF</a>
         </div>
         <h2>Contact Information</h2>
         <p>For further information or inquiries, please contact:<br>
