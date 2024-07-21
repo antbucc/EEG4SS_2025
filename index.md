@@ -26,7 +26,8 @@ header {
 }
 
 .container {
-    width: 80%;
+    width: 90%;
+    max-width: 1200px;
     margin: auto;
     overflow: hidden;
     padding: 20px;
@@ -60,6 +61,7 @@ ul {
 
 .section-logos {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     margin: 40px 0;
@@ -68,6 +70,7 @@ ul {
 .section-logos img {
     max-width: 150px;
     height: auto;
+    margin: 10px;
 }
 
 section.theme {
@@ -113,7 +116,53 @@ h3, h4 {
 .download-link:hover {
     background-color: #555;
 }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .header-image {
+        max-width: 50%;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 15px;
+    }
+
+    .section-logos {
+        flex-direction: column;
+    }
+
+    .section-logos img {
+        max-width: 120px;
+        margin: 15px 0;
+    }
+
+    .download-link {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-image {
+        max-width: 70%;
+    }
+
+    .section-logos img {
+        max-width: 100px;
+    }
+
+    .download-link {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+}
 </style>
+
 <header>
     <img src="assets/springer.png" alt="Springer Logo" class="header-image">
 </header>
@@ -134,7 +183,7 @@ h3, h4 {
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
     <section class="section-logos">
-     <h3>Important Deadlines</h3>
+        <h3>Important Deadlines</h3>
         <ul>
             <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
             <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
