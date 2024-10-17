@@ -185,8 +185,8 @@ h3, h4 {
     <section class="section-logos">
         <h3>Important Deadlines</h3>
         <ul>
-            <li><strong>Preliminary Chapter Proposal:</strong> October 15, 2024</li>
-            <li><strong>Notification of Acceptance:</strong> November 15, 2024</li>
+            <li><strong>Preliminary Chapter Proposal:</strong> November 15, 2024</li>
+            <li><strong>Notification of Acceptance:</strong> November 30, 2024</li>
             <li><strong>Full Chapter Submission:</strong> January 15, 2025</li>
             <li><strong>Review and Feedback:</strong> March 1, 2025</li>
             <li><strong>Final Version Submission:</strong> April 15, 2025</li>
