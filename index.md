@@ -218,7 +218,7 @@ h3, h4 {
         <h3>[Conclusions]</h3>
         <p>This part of the book focuses on envisioning the future of game-based learning and development. It explores emerging trends in game-based learning, predicting how these innovations will shape education and societal interactions in the years to come. It also reflects on the potential long-term impacts of games, considering their evolving role in both educational settings and broader social contexts. Through this forward-looking perspective, it underscores the ongoing and future significance of games in driving educational and social progress.</p>
         <h2>Chapter Submission Guidelines</h2>
-        <p>Interested authors are invited to submit these mandatory information <b>by October 15, 2024</b>:</p>
+        <p>Interested authors are invited to submit these mandatory information <b>by November 15, 2024</b>:</p>
         <ul>
             <li>List of Authors with Affiliations and Contact Information</li>
             <li>Provisional Chapter Title</li>
