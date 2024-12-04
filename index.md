@@ -164,7 +164,7 @@ h3, h4 {
 </style>
 
 <header>
-    <img src="assets/img.png" alt="EEG4SS_2025" class="header-image">
+    <img src="assets/img1.png" alt="EEG4SS_2025" class="header-image">
 </header>
 <div class="container">
     <section class="intro">
