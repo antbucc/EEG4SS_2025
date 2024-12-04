@@ -168,6 +168,51 @@ h3, h4 {
 </header>
 <div class="container">
     <section class="intro">
+        <h1>Chapters Preparation and Submission Guidelines</h1>
+        <h2><b>BookTitle:</b> Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
+        <p><strong>Editors:</strong></p>
+        <ul>
+            <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
+            <li>Valentina Rossi - Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland</li>
+            <li>Vanissa Wanick - University of Southampton, UK</li>
+        </ul>
+    </section>
+    <section class="section-logos">
+        <img src="assets/FBK.png" alt="FBK Logo">
+        <img src="assets/EPFL.png" alt="EPFL Logo">
+        <img src="assets/southampton.png" alt="University of Southampton Logo">
+    </section>
+    <section class="section-logos">
+        <h3>Important Deadlines</h3>
+        <ul>
+            <li><strong>Abstract Submission:</strong> November 15, 2024</li>
+            <li><strong>Notification of Acceptance:</strong> December 8, 2024</li>
+            <li><strong>Full Chapter Submission:</strong> January 31, 2025</li>
+            <li><strong>Review and Feedback:</strong> March 10, 2025</li>
+            <li><strong>Final Version Submission:</strong> April 30 , 2025</li>
+            <li><strong>Book Delivery Date:</strong> June 15, 2025</li>
+        </ul>
+    </section>
+    <section class="content">
+    <div class="submission-procedure">
+        <h2>Submission Procedure</h2>
+        <p>Authors are invited to submit their full <strong>chapter</strong> by <strong>January 31st, 2025</strong>. Manuscripts submitted for the book must be original, must not be previously published, or currently under review anywhere. Submitted manuscripts should respect the standard guidelines of the <strong>Springer</strong> chapter format.</p><p>Manuscripts must be prepared using <strong>LaTeX</strong> or <strong>Word</strong>, and according to the manuscript preparation guidelines, following the link below:</p>
+        <p>
+            <a href="https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation" target="_blank">Springer Manuscript Preparation Guidelines</a>
+        </p>
+        <p>Chapters should contain between <strong>15-25 pages</strong>. Manuscripts that do not follow the formatting rules will be rejected without review.</p>
+        <p><strong>Submission System:</strong> All chapters must be submitted using the <strong>EasyChair</strong> system as a unique PDF document. Please use the following link to submit your manuscript:</p>
+        <p>
+            <a href="https://easychair.org/" target="_blank">EasyChair Submission System</a>
+        </p>
+        <p><strong>NB:</strong> There are <strong>no submission or acceptance fees</strong> for manuscripts submitted to this book for publication. All manuscripts are accepted based on a <strong>single-blind peer review</strong> editorial process.</p>
+    </div>
+</section>
+
+</div>
+
+<div class="container">
+    <section class="intro">
         <h1>Call for Chapters</h1>
         <h2><b>BookTitle:</b> Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
         <p><strong>Editors:</strong></p>
