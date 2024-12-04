@@ -172,13 +172,13 @@ h3, h4 {
         <h2><b>BookTitle:</b> Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
         <p><strong>Editors:</strong></p>
         <ul>
-            <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
+            <li>Antonio Bucchiarone - University of L'Aquila, Italy</li>
             <li>Valentina Rossi - Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland</li>
             <li>Vanissa Wanick - University of Southampton, UK</li>
         </ul>
     </section>
     <section class="section-logos">
-        <img src="assets/FBK.png" alt="FBK Logo">
+        <img src="assets/logo2021-2.png" alt="Univaq Logo">
         <img src="assets/EPFL.png" alt="EPFL Logo">
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
@@ -217,13 +217,13 @@ h3, h4 {
         <h2><b>BookTitle:</b> Engineering Educational Games for a Sustainable Society: Play, Learn, and Transform (EEG4SS_2025)</h2>
         <p><strong>Editors:</strong></p>
         <ul>
-            <li>Antonio Bucchiarone - Fondazione Bruno Kessler (FBK) Trento, Italy</li>
+            <li>Antonio Bucchiarone - University of L'Aquila, Italy</li>
             <li>Valentina Rossi - Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland</li>
             <li>Vanissa Wanick - University of Southampton, UK</li>
         </ul>
     </section>
     <section class="section-logos">
-        <img src="assets/FBK.png" alt="FBK Logo">
+        <img src="assets/logo2021-2.png" alt="Univaq Logo">
         <img src="assets/EPFL.png" alt="EPFL Logo">
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
@@ -279,7 +279,7 @@ h3, h4 {
         <h2>Contact Information</h2>
         <p>For further information or inquiries, please contact:<br>
         <ul>
-        <li><strong>Antonio Bucchiarone</strong> - <a href="mailto:bucchiarone@fbk.eu">bucchiarone@fbk.eu</a></li>
+        <li><strong>Antonio Bucchiarone</strong> - <a href="mailto:antonio.bucchiarone@univaq.it">antonio.bucchiarone@univaq.it</a></li>
         <li><strong>Valentina Rossi</strong> - <a href="mailto:valentina.rossi@epfl.ch">valentina.rossi@epfl.ch</a></li>
         <li><strong>Vanissa Wanick</strong> - <a href="mailto:vwv1n12@ecs.soton.ac.uk">vwv1n12@ecs.soton.ac.uk</a></li>
         </ul>
