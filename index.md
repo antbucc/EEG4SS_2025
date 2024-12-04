@@ -68,7 +68,7 @@ ul {
 }
 
 .section-logos img {
-    max-width: 150px;
+    max-width: 300px;
     height: auto;
     margin: 10px;
 }
@@ -137,7 +137,7 @@ h3, h4 {
     }
 
     .section-logos img {
-        max-width: 120px;
+        max-width: 150px;
         margin: 15px 0;
     }
 
@@ -153,7 +153,7 @@ h3, h4 {
     }
 
     .section-logos img {
-        max-width: 100px;
+        max-width: 150px;
     }
 
     .download-link {
@@ -223,7 +223,7 @@ h3, h4 {
         </ul>
     </section>
     <section class="section-logos">
-        <img src="assets/logo2021-2.png" alt="Univaq Logo">
+         <img src="assets/logo2021-2.png" alt="Univaq Logo">
         <img src="assets/EPFL.png" alt="EPFL Logo">
         <img src="assets/southampton.png" alt="University of Southampton Logo">
     </section>
