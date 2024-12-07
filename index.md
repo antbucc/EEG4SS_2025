@@ -203,7 +203,7 @@ h3, h4 {
         <p>Chapters should contain between <strong>15-25 pages</strong>. Manuscripts that do not follow the formatting rules will be rejected without review.</p>
         <p><strong>Submission System:</strong> All chapters must be submitted using the <strong>EasyChair</strong> system as a unique PDF document. Please use the following link to submit your manuscript:</p>
         <p>
-            <a href="https://easychair.org/" target="_blank">EasyChair Submission System</a>
+            <a href="https://easychair.org/conferences?conf=eeg4ss-2025" target="_blank">EasyChair Submission System</a>
         </p>
         <p><strong>NB:</strong> There are <strong>no submission or acceptance fees</strong> for manuscripts submitted to this book for publication. All manuscripts are accepted based on a <strong>single-blind peer review</strong> editorial process.</p>
     </div>
